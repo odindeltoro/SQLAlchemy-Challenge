@@ -10,5 +10,5 @@ Climate analysis for planning a trip to Hawaii using SQLAlchemy.
 ![Yearly precipitation](Precipitation_analysis.png)
 ![Yearly temperature](Station_analysis.png)
 ![Average temperature on trip](Temperature_analysis.png)
-![Daily normals](Temperature_analysi2.png)
+![Daily normals](Temperature_analysis2.png)
 
